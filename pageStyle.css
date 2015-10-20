@@ -1,0 +1,60 @@
+html {
+	display: block;
+}
+
+body {
+	font-size: small;
+	font-family: arial, sans-serif;
+}
+
+li {
+	float: right;
+	display: block;
+	padding: 0 0 0 10px;
+}
+
+#logo {
+	height: 233px;
+	margin-top: 89px;
+	text-align: center;
+	margin: auto;
+	width: 15em;
+}
+
+#search_bar {
+	margin: auto;
+	text-align: center;
+	color:#C8C8C8;
+}
+
+input {
+	padding: 8px;
+	width: 40%;
+	color:#C8C8C8;
+}
+
+#search_phrase:focus {
+	color:#000000;
+}
+
+#footer {
+	height: 30px;
+	width: 100%;
+	text-align: center;
+}
+
+.button {
+	background-color: #F1F1F1;
+	font: bold 11px/27px Arial,sans-serif!important;
+	color: #686868;
+	border: 1px solid #DCDCDC;
+	border-radius: 4px;
+	padding: 3px 4px 3px 4px;
+	margin: 5px;
+	display: inline-block;
+}
+
+#search_options {
+	margin-top: 15px;
+	text-align: center;
+}
